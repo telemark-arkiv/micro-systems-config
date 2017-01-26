@@ -25,6 +25,6 @@
     "name": "Vigo",
     "field": "copies",
     "factor": 0,
-    "url": "https://vigo.status.t-fk.win/rim-vigo-data-pull.json"
+    "url": "https://seneca-firebase-test.firebaseio.com/rim-vigo-data-pull.json"
   }
 }
