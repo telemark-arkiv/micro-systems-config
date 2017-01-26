@@ -19,5 +19,12 @@
     "field": "antallTilskudd",
     "factor": 15,
     "url": "https://tfk-stats.firebaseio.com/tilskudd.json"
+  },
+  "vigo": {
+    "id": "vigo",
+    "name": "Vigo",
+    "field": "copies",
+    "factor": 0,
+    "url": "https://vigo.status.t-fk.win/raw"
   }
 }
