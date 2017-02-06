@@ -3,6 +3,8 @@
 
 # micro-systems-config
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/micro-systems-config.svg)](https://greenkeeper.io/)
+
 Returns config for systems :-)
 
 # License
