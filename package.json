@@ -39,7 +39,7 @@
   },
   "now": {
     "aliases": [
-      "systems.config.micro.t-fk.no"
+      "systems.config.micro.t-fk.win"
     ],
     "env": {
       "NODE_ENV": "production"
