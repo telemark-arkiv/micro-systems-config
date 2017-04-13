@@ -52,6 +52,6 @@
     "tap": "10.2.1"
   },
   "dependencies": {
-    "micro": "7.3.1"
+    "micro": "7.3.2"
   }
 }
