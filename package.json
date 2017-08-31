@@ -1,7 +1,7 @@
 {
   "name": "micro-systems-config",
   "description": "Returns config for the systems",
-  "version": "1.1.26",
+  "version": "1.1.27",
   "license": "MIT",
   "private": true,
   "author": {
